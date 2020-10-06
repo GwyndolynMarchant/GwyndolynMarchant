@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hi there 👋
+I'm Gwyndolyn Marchant, a 4th-year computer science student.
+- 😄 **Pronouns**: she/her
+- 🌱 **I’m currently learning**: More Python!
+- 🎮 **Fun fact**: I like making games! You can check them out on [my itch page.](https://luna-lapin.itch.io)
+- 💬 **Ask me about**: graphic adventure games
 
-<!--
-**GwyndolynMarchant/GwyndolynMarchant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Libraries
+- [Kazooey](https://github.com/GwyndolynMarchant/Kazooey): A library for programmatically creating chirpy voice dialog for [Godot](https://godotengine.org/).
 
-Here are some ideas to get you started:
+### Projects
+- [Jalapeño](https://github.com/mshankar58/jalapeno-radio): A frontend for Spotify with vegetable visualizations.
+- [A set of panel widgets](https://github.com/GwyndolynMarchant/Xfce4-General-Monitor-Widgets) for the Xfce desktop environment
+- An ANSI [colorscheme](https://github.com/GwyndolynMarchant/powerline-colorscheme-ansi) for [Powerline](https://github.com/powerline/powerline) (with [gitstatus](https://github.com/jaspernbrouwer/powerline-gitstatus) support!)
+- **Userstyles**
+  - [Fallen London: Thin Stat Bars](https://gist.github.com/GwyndolynMarchant/a88316d1e8afcc811391619ed85a3b88)
+  - [Mastodon: Thin Image CWs](https://gist.github.com/GwyndolynMarchant/feeb96da3effd053f73168c799802c43)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### How to reach me 
+- 📫 **Email**: gwyn@shadenexus.com
+- 🐘 **Fediverse**: [@lunalapin@slime.global](https://slime.global/@lunalapin)
