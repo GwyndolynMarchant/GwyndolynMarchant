@@ -1,8 +1,8 @@
 ### Hi there! 👋
 I'm Gwyndolyn Marchant, a 4th-year computer science student.
-- 😄 **Pronouns**: she/her
-- 🌱 **I’m currently learning**: More Python!
-- 🎮 **Fun fact**: I like making games! You can check them out on [my itch page.](https://luna-lapin.itch.io)
+- 😄 Pronouns: she/her
+- 🌱 I’m currently learning: More Python!
+- 🎮 Fun fact: I like making games! You can check them out on [my itch page.](https://luna-lapin.itch.io)
 
 🔭 **Stuff I've worked on**
 - [Kazooey](https://github.com/GwyndolynMarchant/Kazooey): A library for programmatically creating chirpy voice dialog for [Godot](https://godotengine.org/).
@@ -13,6 +13,6 @@ I'm Gwyndolyn Marchant, a 4th-year computer science student.
   - [Fallen London: Thin Stat Bars](https://gist.github.com/GwyndolynMarchant/a88316d1e8afcc811391619ed85a3b88)
   - [Mastodon: Thin Image CWs](https://gist.github.com/GwyndolynMarchant/feeb96da3effd053f73168c799802c43)
 
-**How to reach me**
-- 📫 Email: gwyn@shadenexus.com
-- 🐘 Fediverse: [@lunalapin@slime.global](https://slime.global/@lunalapin)
+📫 **How to reach me**
+- Email: gwyn@shadenexus.com
+- Fediverse: [@lunalapin@slime.global](https://slime.global/@lunalapin)
