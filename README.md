@@ -13,6 +13,8 @@ I'm Gwyndolyn Marchant, a 4th-year computer science student.
 - Userstyles
   - [Fallen London: Thin Stat Bars](https://gist.github.com/GwyndolynMarchant/a88316d1e8afcc811391619ed85a3b88)
   - [Mastodon: Thin Image CWs](https://gist.github.com/GwyndolynMarchant/feeb96da3effd053f73168c799802c43)
+- Userscripts
+  - [Fallen London Silly Names](https://github.com/GwyndolynMarchant/Fallen-London-Silly-Names)
 
 📫 **How to reach me**
 - Email: gwyn@shadenexus.com
