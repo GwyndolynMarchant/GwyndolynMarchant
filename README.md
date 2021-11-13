@@ -20,3 +20,5 @@ I'm Gwyndolyn Marchant, a 4th-year computer science student.
 - Email: gwyn@shadenexus.com
 - Fediverse: [@lunalapin@slime.global](https://slime.global/@lunalapin)
 - Twitter: [@hellgnoll](https://twitter.com/hellgnoll)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P2YLNE)
