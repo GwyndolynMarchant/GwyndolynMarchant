@@ -3,8 +3,11 @@ I'm Gwyndolyn Marchant, a 4th-year computer science student.
 - 😄 Pronouns: she/her
 - 🌱 I’m currently learning: More Python!
 - 🎮 Fun fact: I like making games! You can check them out on [my itch page.](https://luna-lapin.itch.io)
+- 🏠 I have a [homepage](https://shadenexus.com)!
 
 🔭 **Stuff I've worked on**
+- [gzPhotography](https://github.com/GwyndolynMarchant/gzPhotography): A mod for [gzDoom](https://zdoom.org/) that adds a camera for photography that you can use!
+- [Mastodon97](https://github.com/GwyndolynMarchant/Mastodon97): A Userstyle for Mastodon that emulates Windows 9x design
 - [Discord97](https://github.com/GwyndolynMarchant/Discord97): A UI skin for Discord (via BeautifulDiscord) that emulates Windows 9x design
 - [An ANSI colorscheme](https://github.com/GwyndolynMarchant/powerline-colorscheme-ansi) for [Powerline](https://github.com/powerline/powerline) (with [gitstatus](https://github.com/jaspernbrouwer/powerline-gitstatus) support!)
 - [A set of panel widgets](https://github.com/GwyndolynMarchant/Xfce4-General-Monitor-Widgets) for the Xfce desktop environment
