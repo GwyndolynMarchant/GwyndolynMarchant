@@ -1,5 +1,5 @@
 ### Hi there! 👋
-I'm Gwyndolyn Marchant, a 4th-year computer science student.
+I'm Gwyndolyn Marchant, a software engineer with an emphasis on UX and HCI.
 - 😄 Pronouns: she/her
 - 🌱 I’m currently learning: More Python!
 - 🎮 Fun fact: I like making games! You can check them out on [my itch page.](https://luna-lapin.itch.io)
