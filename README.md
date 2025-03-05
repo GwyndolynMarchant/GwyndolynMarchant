@@ -22,6 +22,5 @@ I'm Gwyndolyn Marchant, a software engineer with an emphasis on UX and HCI.
 📫 **How to reach me**
 - Email: gwyn@shadenexus.com
 - Fediverse: [@lunalapin@slime.global](https://slime.global/@lunalapin)
-- Twitter: [@hellgnoll](https://twitter.com/hellgnoll)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P2YLNE)
